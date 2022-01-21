@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/rajamd-azar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajamd-azar" height="30" width="40" /></a>
 <a href="https://fb.com/rajamd.asar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajamd.asar/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajamdazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rajamdazar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajamdjam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajamdjam/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajamd-azar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajamd-azar/" height="30" width="40" /></a>
 </p>
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
