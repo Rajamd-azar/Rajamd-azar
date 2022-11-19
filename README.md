@@ -1,32 +1,86 @@
-<h1 align="center">Hi There 👋, I'm Raja Mohamed Azarudeen</h1>
-<h3 align="center">A passionate self-taught Backend web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Raja is a young tech fellow having a good demonstrated work experience on tech domain like **Python Development**, **DevOps** and **Mobile App Development**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajamd-azar&label=Profile%20views&color=0e75b6&style=flat" alt="rajamd-azar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajamd-azar" alt="rajamd-azar" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
-
-- 🔭 I’m currently working on **Something Cool**
-
-- 🌱 I’m currently learning **Django, Data Science.**
-
-- 👯 I’m looking to collaborate on **any Freelance projects**
-
-- 💬 Ask me about **Python/Java/Flask**
-
-- 📫 How to reach me **rajamdjam@gmail.com**
+---
+ 
+**Currently I am working ...**
 
 
-<h3 align="left">Connect with me:</h3>
+- <div>
+    <img width="250" height="90" align='left' src="https://github.com/Rajamd-azar/Rajamd-azar/blob/main/Images/HCLTech.png" style="margin-left: -10px" >
+    ... as a <strong>Software Engineer</strong> at HCLTech where I have developed 40+ Features and develoment on the project. Debuged Errors and constant improvements on various web technologies and Data Structures & Algorithms concepts.
+ <br />
+    <strong>Tech Stack: </strong> Python, Javascript, Mongodb, Github, Swagger, AWS 
+    <br /> 
+    <br /> 
+  </div> 
+
+ ---
+
+- 🔭 I’m currently working on **Voice-Text Translator**
+- 👯 I’m looking to collaborate on **Python projects**
+- 💬 Ask me about **Python Full Stack Development**,**Data Structures and Algorithms** and **Mobile App Developement**.
+- 📫 How to reach me: Email - rajamdjam@gmail.com
+
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajamd-azar&label=Profile%20views&color=0e75b6&style=flat" alt="rajamd-azar" /> </p>
+
+
+<h2 align="center"> Technologies </h2>
 <p align="left">
-<a href="https://linkedin.com/in/rajamd-azar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajamd-azar" height="30" width="40" /></a>
-<a href="https://fb.com/rajamd.asar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajamd.asar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajamdazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rajamdazar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajamd-azar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajamd-azar/" height="30" width="40" /></a>
+ 
+ Programming Languages<br>
+ <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/C Lang%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/C++ Lang%20-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ 
+ **Frameworks** <br>
+  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+ 
+ **Databases languages and Platforms** <br>
+  <img src="https://img.shields.io/badge/SQL%20-%231572B6.svg?&style=for-the-badge&logo=Sql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/postgres%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+  
+  **Testing** <br>
+    <img src="https://img.shields.io/badge/selenium%20-%231572B6.svg?&style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;&nbsp;
+  
+ **DevOps Platforms** <br>
+  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Postman%20-%231572B6.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
+  
 </p>
-<br></br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamd-azar&show_icons=true&locale=en&layout=compact" alt="rajamd-azar" /></p>
+<h2 align="center"> Github Statistics </h2>
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=rajamd-azar&layout=compact&hide=html&theme=jolly" alt="rajamd-azar" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamd-azar&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
+| --- | --- |
+| ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajamd-azar) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+## Connect with Me 🤝🏻
+
+<p align="center"><br/>
+   <a href="https://linkedin.com/in/rajamd-azar">
+    <img src="https://img.shields.io/badge/linkedin-Rajamd-blue">
+  </a>
+  <a href="https://www.leetcode.com/rajamd-azar/">
+    <img src="https://img.shields.io/badge/leetcode-Rajamd-yellow">
+  </a>
+ <a href="https://www.hackerrank.com/rajamdazar">
+    <img src="https://img.shields.io/badge/hackarrank-Rajamd-green">
+  </a>
+  
+  
+     
+<a class="libutton" href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=rajamd-azar" target="_blank">Follow on LinkedIn</a>
+</p>
+
